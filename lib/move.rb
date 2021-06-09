@@ -7,6 +7,6 @@ def display_board(board)
 end
 
 def input_to_index
-  user_input = "1-9"
-  converted_input = 1-9
+  user_input = "1"
+  converted_input = 1
 end
