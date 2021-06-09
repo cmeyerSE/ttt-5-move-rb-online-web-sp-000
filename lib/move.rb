@@ -8,5 +8,5 @@ end
 
 def input_to_index
   user_input = "1".to_i
-  converted_input = 1
+  converted_input = 1 - 1
 end
