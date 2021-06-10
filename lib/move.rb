@@ -13,5 +13,5 @@ end
 def move(array, index, value)
   board[9] = X
 end
-  
+
   
