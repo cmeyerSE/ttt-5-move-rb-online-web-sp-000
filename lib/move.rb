@@ -13,5 +13,3 @@ end
 def move(array, index, value)
   board[9] = X
 end
-
-{move(board, 2)} = O
