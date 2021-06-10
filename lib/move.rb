@@ -12,7 +12,6 @@ end
 
 def move(array, index, value)
   board[9] = X
-  {move(board, 2)}
 end
 
 
